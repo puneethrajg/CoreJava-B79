@@ -29,7 +29,6 @@ public class IslandofIsolation {
 		obj2.aa = obj1;
 		
 		obj1 = null;
-		
 		obj2 = null;
 		
 		System.gc();
