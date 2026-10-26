@@ -9,7 +9,7 @@ public class LiteralsPractice0510 {
 		float f1 = 123;
 		float f2 = 0123;
 		float f3 = 0x123;
-		float f4 = 0123.5;
+//		float f4 = 0123.5;
 		float f5 = 0123.5F;
 //		float f6 = 0x123.5F;
 		float f7 = 0345F;
@@ -21,7 +21,7 @@ public class LiteralsPractice0510 {
 		System.out.println(f1);
 		System.out.println(f2);
 		System.out.println(f3);
-		System.out.println(f4);
+//		System.out.println(f4);
 		System.out.println(f5);
 //		System.out.println(f6);
 		System.out.println(f7);
