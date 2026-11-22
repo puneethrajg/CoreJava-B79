@@ -4,7 +4,8 @@ public class Device {
 
 	private String brand;
 	private double price;
-
+	
+	
 	public String getBrand() {
 		return brand;
 	}

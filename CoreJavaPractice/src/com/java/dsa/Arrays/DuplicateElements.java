@@ -4,7 +4,6 @@ public class DuplicateElements {
 	public static void main(String[] args) {
 		int [] arr = {1,4,7,2,1,4,7,8,6,9};
 		
-		int isVisited[] = new int[arr.length];
 		
 		
 		
