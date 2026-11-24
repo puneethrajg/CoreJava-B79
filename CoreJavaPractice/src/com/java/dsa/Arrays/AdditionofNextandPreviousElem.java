@@ -16,13 +16,13 @@ public class AdditionofNextandPreviousElem {
 
 			if (i == 0) {
 
-				arr[i] = arr[i] + arr[i+1];
-			} else if (i == arr.length - 1) {
+				res[i] = arr[i] + arr[i+1];
+			} else if (i== arr.length-1) {
 
-				arr[i] = arr[i] + arr[i-1];
+				res[i] = arr[i] + arr[i-1];
 			} else {
 
-				arr[i] = arr[i-1] + arr[i+1];
+				res[i] = arr[i-1] + arr[i+1];
 			}
 
 		}
